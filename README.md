@@ -160,5 +160,5 @@ python wallet_risk_scorer.py
 
 ## 🧑‍💻 Author
 
-Sandesh R. Birajdar  
+Sandesh Raju Birajdar  
 [Email](mailto:sandeshbirajdar030@gmail.com)
